@@ -1,4 +1,4 @@
-Amaterasu Site
+# Amaterasu Site
 Website Development Project: PC Hardware E-commerce Site
 
 I created a responsive website using HTML5, CSS3, and JavaScript to simulate an e-commerce platform for a company selling PC hardware components and pre-built PCs.
@@ -11,6 +11,6 @@ Your valuable comments and suggestions to enhance the website are highly appreci
 
 Please access the website through the following link:
 
-GitHub Pages: Click On 'View Deployment'
+GitHub Pages: [Click On 'View Deployment']()
+### Note: Some images may not appear correctly when using the GitHub Pages environment. For a complete view of the website, please clone the repository and explore it locally.
 
-Note: Some images may not appear correctly when using the GitHub Pages environment. For a complete view of the website, please clone the repository and explore it locally.
